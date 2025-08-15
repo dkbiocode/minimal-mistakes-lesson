@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "David C. King"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am a biologist whose workbench is the computer. My career has been about linking the investigator to the data through education, tools, and analysis."
+  location         : "Colorado, USA"
   email            :
   links:
     - label: "Email"
