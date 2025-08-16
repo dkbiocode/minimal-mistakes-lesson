@@ -4,7 +4,7 @@ permalink: /Education/
 class: wide
 header:
   overlay_image: # some/path
-title: "Education Materials"
+title: "Educational Materials"
 #tagline: ""
 read_time: true
 
