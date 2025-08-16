@@ -1,0 +1,12 @@
+---
+layout: single
+permalink: /pagename/
+class: wide
+header:
+  overlay_image: # some/path
+title: "Games"
+#tagline: ""
+read_time: true
+
+---
+

@@ -45,7 +45,7 @@ feature_row4:
     btn_label: "Whatever you want your button to say" 
 ---
 
-Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main)! 
+Portfolio of David King's stuff to highlight.
 
 # Resources
 
