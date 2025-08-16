@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Resources"
-    url: /resources/
-  - title: "Lectures"
-    url: /lectures/
-  - title: "Image Analysis Project"
-    url: /image_analysis_project/
-  - title: "ggplot Project"
-    url: /ggplot_project/
+  - title: "Workflows"
+    url: /Workflows/
+  - title: "Analysis"
+    url: /Analysis/
+  - title: "Visualization"
+    url: /Visualization/
+  - title: "Education"
+    url: /Education/
